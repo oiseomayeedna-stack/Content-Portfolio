@@ -29,8 +29,6 @@ How I work
 Original format samples
 * 10 Things AI Teams Get Wrong About Web Data: a sample top 10 list on AI infrastructure
 
-10 Things AI Teams Get Wrong About Web Data
-A sample top 10 list written as a content example for AI infrastructure audiences.
 Most AI teams spend months on models and days on the data feeding them. These are the mistakes that show up most often when that balance is wrong.
 1. Treating data collection as a one-off project. Web data changes constantly. A pipeline built once and never revisited quietly goes stale.
 2. Ignoring freshness. A model grounded in last quarter's web is answering today's questions with old information. Decide how fresh your data needs to be, then build to that.
