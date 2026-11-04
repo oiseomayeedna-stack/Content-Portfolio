@@ -29,12 +29,6 @@ How I work
 Original format samples
 * 10 Things AI Teams Get Wrong About Web Data: a sample top 10 list on AI infrastructure
 
-Contact
-📧 oiseomayeedna@gmail.com · 💼 
-https://www.linkedin.com/in/edna-oiseomaye-8524b5384?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-Canva: https://canva.link/xsldjesjnbv5wr4
-
-Original Format Samples:
 10 Things AI Teams Get Wrong About Web Data
 A sample top 10 list written as a content example for AI infrastructure audiences.
 Most AI teams spend months on models and days on the data feeding them. These are the mistakes that show up most often when that balance is wrong.
@@ -51,4 +45,10 @@ Most AI teams spend months on models and days on the data feeding them. These ar
 
 The takeaway: data infrastructure rewards the teams that treat it as a product, with owners, monitoring, and metrics, not as a task to finish and forget.
 Which of these have you run into? Tell me what I missed.
+
+
+Contact
+📧 oiseomayeedna@gmail.com · 💼 
+https://www.linkedin.com/in/edna-oiseomaye-8524b5384?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+Canva: https://canva.link/xsldjesjnbv5wr4
 
